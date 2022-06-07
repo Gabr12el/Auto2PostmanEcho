@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Задача3: Postman Echo [![Build status](https://ci.appveyor.com/api/projects/status/ot0jiwx6dxdn7ig0?svg=true)](https://ci.appveyor.com/project/Gabr12el/auto2postmanecho)
+=======
+## Задача3: Postman Echo [![Build status](https://ci.appveyor.com/api/projects/status/ot0jiwx6dxdn7ig0?svg=true)](https://ci.appveyor.com/project/Gabr12el/auto2postmanecho)
+>>>>>>> 455224d4ff2726d53aee4dd5b19f5e1f76e94aac
 
 ## Домашнее задание к занятию «1.2. Тестирование API, CI»
 ## Задача №3 - Postman Echo
